@@ -1,4 +1,3 @@
 axe 
 sword 
 gun 
-diamond 
