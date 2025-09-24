@@ -1,3 +1,4 @@
 mana 
 money 
 hp 
+stuff
